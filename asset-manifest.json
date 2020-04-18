@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-essentials-15-hw/static/css/main.f236a158.chunk.css",
+    "main.js": "/react-essentials-15-hw/static/js/main.a2937e0a.chunk.js",
+    "main.js.map": "/react-essentials-15-hw/static/js/main.a2937e0a.chunk.js.map",
+    "runtime-main.js": "/react-essentials-15-hw/static/js/runtime-main.19f4555c.js",
+    "runtime-main.js.map": "/react-essentials-15-hw/static/js/runtime-main.19f4555c.js.map",
+    "static/js/2.300f543b.chunk.js": "/react-essentials-15-hw/static/js/2.300f543b.chunk.js",
+    "static/js/2.300f543b.chunk.js.map": "/react-essentials-15-hw/static/js/2.300f543b.chunk.js.map",
+    "index.html": "/react-essentials-15-hw/index.html",
+    "precache-manifest.2a5ba1ec2a1730335d203dad574a2726.js": "/react-essentials-15-hw/precache-manifest.2a5ba1ec2a1730335d203dad574a2726.js",
+    "service-worker.js": "/react-essentials-15-hw/service-worker.js",
+    "static/css/main.f236a158.chunk.css.map": "/react-essentials-15-hw/static/css/main.f236a158.chunk.css.map",
+    "static/js/2.300f543b.chunk.js.LICENSE.txt": "/react-essentials-15-hw/static/js/2.300f543b.chunk.js.LICENSE.txt",
+    "static/media/comment-icon.png": "/react-essentials-15-hw/static/media/comment-icon.78400896.png",
+    "static/media/down-arrow.png": "/react-essentials-15-hw/static/media/down-arrow.92f0193e.png",
+    "static/media/like-icon.png": "/react-essentials-15-hw/static/media/like-icon.82d568b2.png",
+    "static/media/repost-icon.png": "/react-essentials-15-hw/static/media/repost-icon.d96eca86.png",
+    "static/media/retweet-icon.png": "/react-essentials-15-hw/static/media/retweet-icon.d1608214.png",
+    "static/media/verified.png": "/react-essentials-15-hw/static/media/verified.dfc0747d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19f4555c.js",
+    "static/js/2.300f543b.chunk.js",
+    "static/css/main.f236a158.chunk.css",
+    "static/js/main.a2937e0a.chunk.js"
+  ]
+}
